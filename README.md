@@ -61,6 +61,9 @@
   <a href="https://www.instagram.com/yakoot33?igsh=MWRydnhsZTEzcnQycw==" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
 </a>
+  <a href="https://wa.me/01147351772" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo" />
+  </a>
   </p>
 
 ---
