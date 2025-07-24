@@ -42,7 +42,7 @@
 ### 💬 Connect with me!
 
 <p align="center">
-  <a href="www.linkedin.com/in/yakoot-shaker-a64ba6296" target="_blank">
+  <a href="[www.linkedin.com/in/yakoot-shaker-a64ba6296](https://www.linkedin.com/in/yakoot-shaker-a64ba6296?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:yakoot537@gmail.com">
