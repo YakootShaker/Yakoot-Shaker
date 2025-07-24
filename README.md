@@ -25,8 +25,8 @@
 
 ### 🌱 I'm currently learning and exploring
 
-- [Mention something specific you're currently learning, e.g., "Advanced data structures and algorithms in Java", "React.js", "Cloud computing basics with AWS/Azure"]
-- [Another area of interest or a project you're working on]
+- Currently participating in the DEBI Internship Program, focusing on real-world projects in AI and Data Engineering.
+- NTI – Enrolled in the Machine Learning Track, applying ML algorithms and tools to solve practical problems.
 
 ---
 
