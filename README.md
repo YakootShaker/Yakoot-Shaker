@@ -33,9 +33,9 @@
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YakootShaker&show_icons=true&theme=vue-dark&hide_title=true&hide=prs" alt="Your GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YakootShaker & show_icons=true&theme=vue-dark&hide_title=true&hide=prs" alt="Your GitHub Stats"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YakootShaker&theme=vue-dark&hide_title=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YakootShaker & theme=vue-dark&hide_title=true" alt="GitHub Streak"/>
 </p>
 
 ---
